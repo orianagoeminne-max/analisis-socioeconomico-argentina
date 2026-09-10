@@ -64,19 +64,19 @@ El reporte está dividido en tres páginas.
 
 Presenta una vista general de los principales indicadores y permite comparar rápidamente la situación de las distintas provincias.
 
-![Resumen General](images/resumen-general.png)
+![Resumen general](resumen-general.png)
 
 ### Demografía
 
 Incluye indicadores relacionados con población, densidad poblacional y esperanza de vida, además de su evolución a lo largo del tiempo.
 
-![Demografía](images/demografia.png)
+![Dashboard de demografía](demografía.png)
 
 ### Economía
 
 Se concentra en los indicadores de empleo y comercio exterior, incluyendo la evolución del empleo registrado, las exportaciones y la participación de cada provincia en el total nacional.
 
-![Economía](images/economia.png)
+![Dashboard de economía](economía.png)
 
 ## Interactividad
 
