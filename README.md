@@ -103,4 +103,4 @@ analisis-socioeconomico-argentina/
 
 ## Sobre el proyecto
 
-Este proyecto fue realizado como parte de mi portfolio de Data Analytics y Business Intelligence.
+Desarrollé este proyecto para poner en práctica el proceso completo de análisis y visualización de datos, desde la preparación de las fuentes hasta la construcción del modelo y el diseño final del dashboard en Power BI.
