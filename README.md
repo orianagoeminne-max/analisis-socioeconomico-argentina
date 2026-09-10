@@ -91,17 +91,14 @@ analisis-socioeconomico-argentina/
 │
 ├── README.md
 ├── Análisis Socioeconómico de Argentina.pbix
+├── medidas-dax.md
+├── resumen-general.png
+├── demografía.png
+├── economía.png
 │
-├── images/
-│   ├── resumen-general.png
-│   ├── demografia.png
-│   └── economia.png
-│
-├── data/
-│   └── archivos CSV utilizados
-│
-└── docs/
-    └── medidas-dax.md
+└── data/
+    ├── README.md
+    └── archivos CSV utilizados
 ```
 
 ## Sobre el proyecto
